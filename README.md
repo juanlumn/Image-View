@@ -1,7 +1,7 @@
 Image-View
 ==========
 
-Image View is a desktop application deveoped in C++ that provides the ability to load in an image and present the graphics inside a window.
+Image View is a desktop application developed in C++ that provides the ability to load in an image and present the graphics inside a window.
 
 Allows the user to select a file to load in an image. Supports loading many file formats, such as PNG, TIFF, JPEG, BMP or animated GIF.
 
